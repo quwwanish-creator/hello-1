@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Kinfolk & Craft",
+  "short_name": "Kinfolk",
+  "description": "Mindful editorial Android mobile app combining Daily Stack, Focus Tracker, Goals 2027, and Reading Library.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F6F5F1",
+  "background_color": "#F6F5F1",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

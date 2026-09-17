@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kinfolk \u0026 Craft Android",
+  "description": "A mindful editorial Android mobile app combining Daily Stack, Focus Tracker, Goals 2027 Orbital Horizon, and Reading Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
